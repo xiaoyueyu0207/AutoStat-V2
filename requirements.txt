@@ -1,0 +1,33 @@
+# Recommended: Python 3.13 x64
+# Install: pip install -r requirements.txt
+# Run app: streamlit run app.py
+# If you need PDF export in the report module, also run:
+# playwright install chromium
+
+streamlit==1.48.1
+pandas==2.3.1
+numpy==2.2.6
+scipy==1.16.1
+scikit-learn==1.7.1
+plotly==5.13.0
+requests==2.32.5
+chardet==5.2.0
+
+streamlit-antd-components==0.3.2
+streamlit-ace==0.1.1
+stqdm==0.0.5
+tqdm==4.67.3
+
+beautifulsoup4==4.13.5
+python-docx==1.2.0
+playwright==1.58.0
+cozepy==0.20.0
+kaleido==0.1.0.post1
+
+lightgbm==4.6.0
+xgboost==3.0.4
+torch==2.8.0
+torchvision==0.23.0
+
+openpyxl==3.1.5
+xlrd==2.0.2
